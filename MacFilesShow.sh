@@ -14,13 +14,3 @@ elif [ $showFile = 'N' -o $showFile = 'n' ]
 else 
 	echo "输入的命令错误 请输入 Y(or y) N(or n)"
 fi
-
-
-
-
-
-
-
-
-
-
