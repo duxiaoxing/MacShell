@@ -1,4 +1,5 @@
-#!/bin/sh
+# !/bin/sh
+# 显示隐藏文件
 echo '显示隐藏文件？ Y (yes) or N (not) ?'
 read  showFile
 if [ $showFile = 'Y' -o $showFile = 'y' ]
